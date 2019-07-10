@@ -6,5 +6,6 @@ Too lazy to put this in NPM
 * Open a console
 * Clone this repo
 * Navigate to the clone directory in your console
+* Type >npm i
 * Type >npm start
 * Make requests to http://localhost:8000/{YOUR_HTTP_STATUS_CODE}
